@@ -1,2 +1,3 @@
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+data/Control3-ICI.json
